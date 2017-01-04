@@ -1,13 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: January 03, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Made adjustments to my Free Code Camp tribute page. Added base CSS @media queries. Tweaked the timeline container and font style. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Began this page quite awhile ago so took some time to get back up to speed with CSS and particulary bootstrap responsive coding. Threw out a relatively complicated CSS timeline and made it a more simplified bulletpoint list.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Links to work:** 
+[Codepen Pen](http://codepen.io/amilkandcookies/pen/vGewdN)
+[Gist code](https://gist.github.com/amelkisethian/d80846bf35f5fd462c8ef13789756d1d)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
