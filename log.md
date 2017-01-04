@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 03, 2016 (Example 1)
+### Day 1: January 03, 2017 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Made adjustments to my Free Code Camp tribute page. Added base CSS @media queries. Tweaked the timeline container and font style. 
