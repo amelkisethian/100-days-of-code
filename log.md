@@ -11,14 +11,16 @@
 [Codepen Pen](http://codepen.io/amilkandcookies/pen/vGewdN)
 [Gist code](https://gist.github.com/amelkisethian/d80846bf35f5fd462c8ef13789756d1d)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: January 04, 2017 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Spent time playing around with repsonsive design. I experimented and found something that worked though likely not the best approach. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Tried several different CSS methods to make the page more responsive. Had issues with min-width/max-width @media queries. When I used a version without the "min-width" the responsiveness was present but not if I included. Thinking there is a better, more bootstrappy way to acomplish the responsive task. Will tackle it again tomorrow.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+[Codepen Pen](http://codepen.io/amilkandcookies/pen/vGewdN)
+[Gist code](https://gist.github.com/amelkisethian/d80846bf35f5fd462c8ef13789756d1d)
 
 
 ### Day 1: June 27, Monday
