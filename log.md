@@ -23,12 +23,11 @@
 [Gist code](https://gist.github.com/amelkisethian/d80846bf35f5fd462c8ef13789756d1d)
 
 
-### Day 1: June 27, Monday
+### Day 3: January 05, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: More responsice hijinks. Tweaking @meda queries and container divs to make tribute work accross many devices.
+**Thoughts** Getting the responsiveness right is fairly challenging. Using @media queries and trying to adapt for at least iphone and ipad. It's pretty challenging even though I tried to make the page as simple as possible -- 1 column, centered text.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Codepen Pen](http://codepen.io/amilkandcookies/pen/vGewdN)
+[Gist code](https://codepen.io/amilkandcookies/pen/vGewdN)
