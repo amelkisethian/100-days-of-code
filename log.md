@@ -30,7 +30,7 @@
 **Link(s) to work**
 [Codepen Pen](http://codepen.io/amilkandcookies/pen/vGewdN)
 
-### Day 4/5/6: January 6-8 2017 
+### Day 4/5/6: January 6-8, 2017 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Combining these days because I'm lazy and worked on pretty much only responsiveness the past three days! Used background-color, temporarily, to help with figuring out what the @media queries were targeting. That worked out nicely. Added realy content, a quote, an hr element, and another image. 
@@ -40,4 +40,26 @@
 **Link(s) to work**: 
 [Codepen Pen](https://codepen.io/amilkandcookies/pen/Xpbzqv)
 [Gist code](https://gist.github.com/amelkisethian/ddc2a52d56bfce92c2ee5eb61018a8ae)
+
+### Day 7: January 9, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Finished my tribute page. Added last responsiveness tweaks, a bottom image adjustment, and adjusted the block quote. Started working on finishing my portfolio page.
+
+**Thoughts**: Happy to be finished. It's not the most complex design but I'd rather start small and build up to harder projects then get overwhelmed in the beginning and bail.
+
+**Link(s) to work**: 
+[Codepen Pen](https://codepen.io/amilkandcookies/pen/Xpbzqv)
+[Gist code](https://gist.github.com/amelkisethian/ddc2a52d56bfce92c2ee5eb61018a8ae)
+
+### Day 8: January 10, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Portfolio page. Adjusted nav headers, added some thumbnails to the portfolio section, wrapped the body rows in a container to adjut the left margin. 
+
+**Thoughts**: Not loving the thumbnail formatting. Using the bootstrap .thumbnail class which is convenient but I'd like to remove the white box-shadow.
+
+**Link(s) to work**: 
+[Codepen Pen](http://codepen.io/amilkandcookies/pen/zBGaej)
+[Gist code](https://gist.github.com/amelkisethian/e5f1d2094d310c7e1b6165519a506512)
 
