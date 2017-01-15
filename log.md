@@ -63,3 +63,17 @@
 [Codepen Pen](http://codepen.io/amilkandcookies/pen/zBGaej)
 [Gist code](https://gist.github.com/amelkisethian/e5f1d2094d310c7e1b6165519a506512)
 
+
+### Day 9/10/11: January 11-13, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: More Portfolio page. Added social media fa icons, a contact form, adjusted the thumbnail section. Spent sometime doing bash command tutorials via lynda.com. Collapsed three days into one, know it's cheating but it's better than giving up on the challange entirely ;)
+
+**Thoughts**: Still not loving the thumbnail formatting. Using the bootstrap .thumbnail class which is convenient but I'm going to scratch I think. I'm graphic design nerd at heart so gotta make it look pretty! Also need to work on the Contact section columns some more, at some widths the fa social media section overlaps the form. No bueno. 
+
+**Link(s) to work**: 
+[Codepen Pen](http://codepen.io/amilkandcookies/pen/zBGaej)
+[Gist code](https://gist.github.com/amelkisethian/e5f1d2094d310c7e1b6165519a506512)
+[Codepen Pen](http://codepen.io/amilkandcookies/pen/zBGaej)
+[Gist code](https://gist.github.com/amelkisethian/e5f1d2094d310c7e1b6165519a506512)
+
