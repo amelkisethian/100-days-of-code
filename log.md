@@ -74,6 +74,17 @@
 **Link(s) to work**: 
 [Codepen Pen](http://codepen.io/amilkandcookies/pen/zBGaej)
 [Gist code](https://gist.github.com/amelkisethian/e5f1d2094d310c7e1b6165519a506512)
+
+### Day 12/13/14: January 20-22, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Finished portfolio page Free Code Camp challange. 
+
+**Thoughts**: I will probably go back and tweak it some more -- I will need to add actual design thumbnails once I have some to show. But done for now. It's got links, made the nav bar affix, added responsiveness media query for small screens so the form in the contact section does not get cut off. Also added .container .body code to prevent side-scrolling in small screens.
+
+**Link(s) to work**: 
 [Codepen Pen](http://codepen.io/amilkandcookies/pen/zBGaej)
 [Gist code](https://gist.github.com/amelkisethian/e5f1d2094d310c7e1b6165519a506512)
+
+
 
